@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="28" fill="#0D0D0D"/>
+  <circle cx="64" cy="64" r="52" stroke="#650000" stroke-width="2" stroke-opacity="0.6"/>
+  <circle cx="64" cy="64" r="44" stroke="#B00020" stroke-width="1.5" stroke-opacity="0.35"/>
+  <path
+    d="M64 20C64 20 32 57.5 32 79C32 96.6731 46.3269 111 64 111C81.6731 111 96 96.6731 96 79C96 57.5 64 20 64 20Z"
+    fill="url(#crimsonDrop)"
+    stroke="#FF243D"
+    stroke-width="3"
+  />
+  <path
+    d="M64 38C64 38 45 60.5 45 75.5C45 86.2696 53.5066 95 64 95C74.4934 95 83 86.2696 83 75.5C83 60.5 64 38 64 38Z"
+    fill="#0D0D0D"
+    fill-opacity="0.55"
+  />
+  <path
+    d="M52 67C49.5 72 49.5 79 53 84"
+    stroke="#FF243D"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+  <defs>
+    <linearGradient id="crimsonDrop" x1="64" y1="20" x2="64" y2="111" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF243D"/>
+      <stop offset="1" stop-color="#650000"/>
+    </linearGradient>
+  </defs>
+</svg>

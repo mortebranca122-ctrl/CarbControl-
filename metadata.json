@@ -1,0 +1,6 @@
+{
+  "name": "CarbControl — Sukuna Edition",
+  "description": "Aplicativo offline completo de contagem de carboidratos, diário alimentar, receitas e acompanhamento de glicemia e insulina para controle do diabetes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
